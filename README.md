@@ -1,5 +1,7 @@
 Glacial Bliss
 Slogan: Savor the Frost, Taste the Joy
+![Glacial Bliss Screenshot](https://github.com/user-attachments/assets/8f405021-1cea-405a-9751-b1dbdf54097b)
+
 Overview
 Glacial Bliss is a dynamic and interactive web application designed for an ice cream restaurant. It also offers smoothies, cookies, biscuits, milkshakes, and falooda. The project uses Java Spring Boot for the backend and Angular with Bootstrap for the frontend, ensuring a robust and responsive user interface. This project demonstrates full-stack development, integrating a powerful backend with a polished and visually appealing frontend.
 Project Objectives
